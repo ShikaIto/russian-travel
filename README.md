@@ -10,4 +10,4 @@
 
 ### GitHub
 
-[ссылка на GitHub](https://github.com/ShikaIto)
+[ссылка на проект](https://shikaito.github.io/russian-travel/)
