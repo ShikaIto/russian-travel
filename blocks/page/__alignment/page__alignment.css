@@ -1,0 +1,15 @@
+.page__alignment {
+  margin: 0 auto 92px;
+}
+
+@media screen and (max-width: 769px) {
+  .page__alignment {
+    margin-block-end: 88px;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .page__alignment {
+    margin-block-end: 64px;
+  }
+}
