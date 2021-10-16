@@ -3,6 +3,7 @@
   min-height: 615px;
   display: block;
   margin: 0 auto;
+  object-fit: contain;
 }
 
 @media screen and (max-width: 1025px) {
